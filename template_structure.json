@@ -1,0 +1,1372 @@
+[
+  {
+    "index": 0,
+    "text": "YOUR NAME",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "line_spacing": 1.15
+    },
+    "runs": [
+      {
+        "text": "YOUR NAME",
+        "format": {
+          "font_size": 18.0,
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "text": "Role title",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "line_spacing": 1.15
+    },
+    "runs": [
+      {
+        "text": "Role title",
+        "format": {
+          "font_size": 14.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "text": "first.last@resumegmail.com  |   0400 000 000   |  LinkedIn",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "line_spacing": 1.0791666666666666
+    },
+    "runs": [
+      {
+        "text": "first.last@resumegmail.com  ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      },
+      {
+        "text": "|",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      },
+      {
+        "text": "   0400 000 000  ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      },
+      {
+        "text": " |  ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      },
+      {
+        "text": "LinkedIn",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "text": "CAREER PROFILE",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "CAREER ",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      },
+      {
+        "text": "PROFILE",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "text": "Your career profile is a preview of your career in the context of the job that you are applying for. The few short lines of a career profile present you as the ideal applicant, provide the reader with an instant summary of who you are, what you stand for and your relevant credentials. It helps the person reviewing your resume decide whether to progress you.",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "Your career profile is a preview of your career in the context of the job that you are applying for. The few short lines of a career profile present you as the ideal applicant, provide the reader with an instant summary of who you are, what you stand for and your relevant credentials. It helps the person reviewing your resume decide whether to progress you.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "text": "It needs to tell people what expertise or skills you bring to the table and should outline the additional talents or competitive advantages you offer.",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_after_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "It needs to tell people what expertise or skills you bring to the table and should outline the additional talents or competitive advantages you offer.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "text": "AREAS OF EXPERTISE/HIGHLIGHTS",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "AREAS ",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      },
+      {
+        "text": "OF EXPERTISE",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      },
+      {
+        "text": "/HIGHLIGHTS",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "text": "Instructions: Visionary leader with demonstrated success in developing and executing comprehensive strategies that drive market growth and operational excellence.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "None",
+      "left_indent_inches": 0.2951388888888889,
+      "first_line_indent_inches": -0.24791666666666667,
+      "space_before_pt": 6.0,
+      "space_after_pt": 3.0
+    },
+    "runs": [
+      {
+        "text": "Instructions",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": ":",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " Visionary leader with demonstrated success in developing and executing comprehensive strategies that drive market growth and operational excellence.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "text": "Example Financial Acumen: Skilled in financial planning, analysis, and optimization, consistently identifying cost-saving opportunities and ensuring robust budget management.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "None",
+      "left_indent_inches": 0.2951388888888889,
+      "first_line_indent_inches": -0.24791666666666667,
+      "space_after_pt": 3.0
+    },
+    "runs": [
+      {
+        "text": "Example ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "Financial Acumen:",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " Skilled in financial planning, analysis, and optimization, consistently identifying cost-saving opportunities and ensuring robust budget management.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "text": "Operational Efficiency: Known for streamlining workflows and implementing automated systems, achieving significant time and cost efficiencies across multi-departmental operations.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "None",
+      "left_indent_inches": 0.2951388888888889,
+      "first_line_indent_inches": -0.24791666666666667,
+      "space_after_pt": 3.0
+    },
+    "runs": [
+      {
+        "text": "Operational Efficiency:",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " Known for streamlining workflows and implementing automated systems, achieving significant time and cost efficiencies across multi-departmental operations.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "text": "CAREER SUMMARY",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "CAREE",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      },
+      {
+        "text": "R",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      },
+      {
+        "text": " SUMMARY",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "text": "Job title, Company name\tJuly 2019 – Present",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "Job title, Company name",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "\tJuly 2019",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " – ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "Present",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "text": "Job title, Company name\tApril 2015 – July 2019",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "Job title, Company name",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "\t",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "April 2015",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "–",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "July 2019",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "text": "Job title, Company name\tSeptember 2012 – April 2015",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "Job title, Company name",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "\tSeptember 20",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "1",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "2",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " – ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "April ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "20",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "15",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "text": "PROFESSIONAL EXPERIENCE",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "PROFESSIONAL EXPERIENCE",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "text": "Job title, Company name                                                                                                                                             July 2019 – Present",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "Job title, Company name",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "                                                                                                                                             ",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "July 2019 ",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "–",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " Present",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "text": "Overview of the role in 1 to 2 lines.",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Overview of the role in 1 to 2 lines.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "text": "Key Responsibilities\t",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Key ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null
+        }
+      },
+      {
+        "text": "Responsibilities",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null
+        }
+      },
+      {
+        "text": "\t",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "text": "Validate your fit for a role by highlighting your experience through writing 2-4 strong responsibility statements.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Validate your fit for a role by highlighting your experience through writing 2-4 strong responsibility statements.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "text": "Example - Performed a number of administrative duties on a daily basis i.e. checking expenses, paying vendor invoices, updating registers",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Example - Performed a number of administrative duties on a daily basis i.e. checking expenses, paying vendor invoices, updating registers",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "text": "Example - Maintained detailed event planner to ensure successful use of all deliverables from sponsorship agreements",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Example - Maintained detailed event planner to ensure successful use of all deliverables from sponsorship agreements",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "text": "Achievements\t",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Achievements",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null
+        }
+      },
+      {
+        "text": "\t",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "text": "Achievements are based on facts that demonstrate your past ability to contribute to an organisation and highlight your contributions above and beyond your normal job responsibilities. They differ from responsibilities because they are specific examples that are quantified.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Achievements are based on facts that demonstrate your past ability to contribute to an ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "organisation",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " and ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "highlight",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " your contributions above and beyond your normal job responsibilities. They differ from responsibilities because they are specific examples that are quantified.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "text": "Example - Developed a training guide for my peers on Salesforce which was shared across Australia to assist with the training for new employees.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Example - Developed a training guide for my peers on Salesforce which was shared across Australia to assist with the training for new employees.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "text": "Job title, Company name                                                                                                                                  April 2015 – July 2019",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Job title, Company name",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "                                                                                                                                  ",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "April 20",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "15",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " – July 2019",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "text": "Overview of the role in 1 to 2 lines.",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Overview of the role in 1 to 2 lines.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "text": "Key Responsibilities\t",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Key ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null
+        }
+      },
+      {
+        "text": "Responsibilities",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null
+        }
+      },
+      {
+        "text": "\t",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "text": "Validate your fit for a role by highlighting your experience through writing 2-4 strong responsibility statements.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Validate your fit for a role by highlighting your experience through writing 2-4 strong responsibility statements.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "text": "Example - Performed a number of administrative duties on a daily basis i.e. checking expenses, paying vendor invoices, updating registers",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Example - Performed a number of administrative duties on a daily basis i.e. checking expenses, paying vendor invoices, updating registers",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "text": "Example - Maintained detailed event planner to ensure successful use of all deliverables from sponsorship agreements",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Example - Maintained detailed event planner to ensure successful use of all deliverables from sponsorship agreements",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "text": "Achievements\t",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Achievements",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null
+        }
+      },
+      {
+        "text": "\t",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "text": "Achievements are based on facts that demonstrate your past ability to contribute to an organisation and highlight your contributions above and beyond your normal job responsibilities. They differ from responsibilities because they are specific examples that are quantified.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Achievements are based on facts that demonstrate your past ability to contribute to an ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "organisation",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " and highlight your contributions above and beyond your normal job responsibilities. They differ from responsibilities because they are specific examples that are quantified.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "text": "Example - Developed a training guide for my peers on Salesforce which was shared across Australia to assist with the training for new employees.",
+    "paragraph_format": {
+      "style": "List Paragraph",
+      "alignment": "JUSTIFY (3)",
+      "left_indent_inches": 0.29583333333333334
+    },
+    "runs": [
+      {
+        "text": "Example - Developed a training guide for my peers on Salesforce which was shared across Australia to assist with the training for new employees.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "text": "SKILLS",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "line_spacing": 1.0791666666666666
+    },
+    "runs": [
+      {
+        "text": "SKILLS",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "text": "MS Office Suite",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "MS Office Suite",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "text": "HubSpot",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "HubSpot",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "text": "Salesforce",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Salesforce",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "text": "Canva",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Canva",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 52,
+    "text": "\nEDUCATION & PROFESSIONAL DEVELOPMENT",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "\n",
+        "format": {
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "EDUCATION",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      },
+      {
+        "text": " & PROFESSIONAL DEVELOPMENT",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 53,
+    "text": "Everton University\t2019 – 2022",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "Everton University",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "\t2019",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": " – ",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      },
+      {
+        "text": "2022",
+        "format": {
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "text": "Bachelor of Teaching (Primary Education)",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "Bachelor of Teaching (Primary Education)",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null
+        }
+      }
+    ]
+  },
+  {
+    "index": 56,
+    "text": "REFERENCES",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None"
+    },
+    "runs": [
+      {
+        "text": "REFERENCES",
+        "format": {
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "365F91"
+        }
+      }
+    ]
+  },
+  {
+    "index": 57,
+    "text": "References are available upon request.",
+    "paragraph_format": {
+      "style": "Normal",
+      "alignment": "None",
+      "space_before_pt": 6.0
+    },
+    "runs": [
+      {
+        "text": "References ",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      },
+      {
+        "text": "are available",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      },
+      {
+        "text": " upon request.",
+        "format": {
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color_rgb": "000000"
+        }
+      }
+    ]
+  }
+]

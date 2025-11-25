@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:doc-0c-48-docstext.googleusercontent.com)",
+      "Bash(pip install:*)",
+      "Bash(python analyze_template.py:*)",
+      "Bash(python generate_resume_docx.py:*)",
+      "Bash(python analyze_template_detailed.py:*)",
+      "Bash(python analyze_output.py:*)",
+      "WebSearch",
+      "Bash(python:*)",
+      "Bash(pip show:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

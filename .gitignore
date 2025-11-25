@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Generated resumes (don't commit personal resumes)
+resumes/*.docx
+resumes/*.pdf
+resumes/*.md
+!resumes/refrence_resume/*.md
+
+# Templates can be committed
+!resumes/Template/
+
+# Temporary files
+*.tmp
+~$*.docx
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*_BACKUP.*
+*_OLD.*
+
+# Web app uploads
+web_app/generated_resumes/
+web_app/uploads/
+
+# Environment variables
+.env
+*.env
+
+# Documentation (keep)
+!*.md
